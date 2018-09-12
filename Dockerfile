@@ -3,7 +3,7 @@
 ARG BASE_IMAGE="php:7.2-alpine"
 ARG PACKAGIST_NAME="friendsofphp/php-cs-fixer"
 ARG PHPQA_NAME="php-cs-fixer"
-ARG VERSION="2.12.1"
+ARG VERSION="2.12.2"
 
 # Build image
 
